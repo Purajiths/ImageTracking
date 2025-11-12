@@ -103,6 +103,7 @@ document.addEventListener('DOMContentLoaded', () => {
 ## File Structure
 /marker-drummer-raccoon ├── index.html ├── main.js ├── libs/ │ └── mindar/ │ └── mindar-image-three.prod.js │ └── loader.js ├── asserts/ │ ├── models/ │ │ └── musicband-raccoon/scene.gltf │ ├── sounds/ │ │ └── musicband-background.mp3 │ └── musicband.mind └── README.md
 ## OUTPUT:
-![Untitled](https://github.com/user-attachments/assets/b0f70f45-5ff6-42de-ac27-b5df47186ea8)
+<img width="1866" height="981" alt="Screenshot 2025-09-24 115628" src="https://github.com/user-attachments/assets/4a73084b-9999-4419-b842-eb54ce4b25f6" />
+
 ## RESULT:
 The experiment successfully demonstrates marker-based AR using MindAR and Three.js. The drummer raccoon model was successfully rendered and animated on the detected marker, and synchronized background audio was played, validating effective marker detection and real-time 3D rendering in a web-based AR environment.
